@@ -59,3 +59,4 @@ C:\Users\imrtee\XProjects\Reactivus\API\obj\Debug\netcoreapp3.1\API.RazorTargetA
 C:\Users\imrtee\XProjects\Reactivus\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
 C:\Users\imrtee\XProjects\Reactivus\API\obj\Debug\netcoreapp3.1\API.dll
 C:\Users\imrtee\XProjects\Reactivus\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\imrtee\XProjects\Reactivus\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
